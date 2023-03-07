@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+/* body {
+  background-color: #222;
+  color: #fff;
+} */
+
+.dark-mode {
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+  color: #fff;
+}
+
+.light-mode {
+  height: 100%;
+  width: 100%;
+  background-color: #faf9f9;
+  color: #000000;
+}
